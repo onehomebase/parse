@@ -1,11 +1,11 @@
 {
     "name": "parziphal/parse",
-    "description": "An Eloquent-like interface for Parse",
+    "description": "An Eloquent-like interface for Parse.",
     "keywords": ["laravel", "parse", "sdk", "parse-sdk", "eloquent"],
     "license": "MIT",
     "require": {
         "php": ">=5.5.9",
-        "laravel/framework": "5.2.*|5.3.*|5.4.*",
+        "laravel/framework": "5.2.*|5.3.*|5.4.*|5.5",
         "parse/php-sdk": "~1.2.0"
     },
     "autoload": {
